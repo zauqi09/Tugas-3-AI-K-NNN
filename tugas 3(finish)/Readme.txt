@@ -1,0 +1,3 @@
+- file train dan test berada pada folder Data Tugas 3 AI
+- file TebakanTugas3.csv berada pada folder Data Tugas 3 AI
+- Jalankan KNN.py
